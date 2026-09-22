@@ -1,0 +1,8 @@
+langchain==1.4.2
+langchain-openai==1.6.2
+langchain-pinecone==0.2.13
+langchain-apify==0.1.7
+langchain-text-splitters==1.1.2
+apify-client==2.5.1
+streamlit==1.64.0
+python-dotenv==1.2.3
